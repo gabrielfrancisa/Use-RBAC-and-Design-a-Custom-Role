@@ -29,22 +29,23 @@ I will use RBAC and design a custom role as a proof of concept.
 >>> Create an Azure virtual machine by using the values in the following table. For any property that is not specified, use the default value.
 
 Property --------------	Value
-Resource group:	rp-datalod**********
-Virtual machine name:	VM1
-Region:	(US) East US
-Image	Windows Server 2016 Datacenter: - x64 Gen2
-Size:	Standard B2s
-Admin Username:	AzureAdmin
-Admin Password:	Pa55w.rd55552985
-Select inbound ports:	RDP (3389)
-OS disk type:	Standard HDD
-Auto-shutdown:	Disabled
-Boot diagnostics:	Disable
-Close the InPrivate or Incognito browser window.
+1. Resource group:	rp-datalod**********
+2. Virtual machine name:	VM1
+3. Region:	(US) East US
+4. Image	Windows Server 2016 Datacenter: - x64 Gen2
+5. Size:	Standard B2s
+6. Admin Username:	AzureAdmin
+7. Admin Password:	Pa55w.rd55552985
+8. Select inbound ports:	RDP (3389)
+9. OS disk type:	Standard HDD
+10. Auto-shutdown:	Disabled
+11. Boot diagnostics:	Disable
+12. Close the InPrivate or Incognito browser window.
 
-Want to learn more? Review the documentation on creating an Azure VM.
+
 
 >>> It may take a few minutes for the audit log to be updated after the virtual machine has been created. 
+
 >>> If you get an unexpected result when you check your work, please wait a few minutes and try again.
 
 
